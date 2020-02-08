@@ -1,1 +1,1 @@
-This project is about Git
+This project is about Git. I am updating this file.
